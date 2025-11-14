@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\FollowCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FollowCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\fireLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\fireLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\CharacterMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CharacterMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\Rotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Rotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\Movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fireLight.cs",
+              "DocumentMoniker": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\fireLight.cs",
+              "RelativeDocumentMoniker": "Assets\\fireLight.cs",
+              "ToolTip": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\fireLight.cs",
+              "RelativeToolTip": "Assets\\fireLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:27:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rotation.cs",
+              "DocumentMoniker": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\Rotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Rotation.cs",
+              "ToolTip": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\Rotation.cs",
+              "RelativeToolTip": "Assets\\Rotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:47:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterMovement.cs",
+              "ToolTip": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\CharacterMovement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:23:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowCamera.cs",
+              "ToolTip": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\FollowCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:07:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement.cs",
+              "ToolTip": "D:\\school\\semestr7\\Grafika_3d\\zad1\\zad1\\Assets\\Movement.cs",
+              "RelativeToolTip": "Assets\\Movement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:54:57.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
